@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './logo.gif';
 import './App.css';
 import {fetchDataForTicker, formatNumber} from "./Utils";
 import {useState} from "react";
